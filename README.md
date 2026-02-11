@@ -1,8 +1,6 @@
-<h1 align="center">👋 Hey, I'm Thembinkosi Madiba</h1>
-
-<p align="center">
-  <i>Mobile Developer • UI/UX Enthusiast • Cloud Engineer in Training</i>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=70A5FD&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Thembinkosi+Madiba;Mobile+Developer+%7C+UI%2FUX+Enthusiast;Cybersecurity+Explorer" alt="Typing Header" />
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thembinkosi-madiba-684403328" target="_blank">
@@ -121,13 +119,6 @@ A creative, animated web experience deployed for Valentine's Day.
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  
-  <!-- Animated Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Mobile+Developer+%7C+UI%2FUX+Enthusiast;Building+with+React+Native+%26+Firebase;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-  
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThembinkosiMadiba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&rank_icon=github&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
