@@ -49,8 +49,32 @@ Firebase • Netlify • PostgreSQL
 
 **Tools & Platforms**
 ```
-Git • GitHub • VS Code • PyCharm • VirtualBox • Kali Linux
+Git • GitHub • VS Code • PyCharm
 ```
+
+---
+
+## 🛡️ Cybersecurity
+
+I'm also building my skills in **Cybersecurity**, focusing on practical learning, hands-on labs, and security fundamentals.
+
+### Areas I'm Exploring
+
+- 🌐 Networking fundamentals & protocols
+- 🐧 Linux systems administration (Kali Linux)
+- 💻 Virtual Machines & isolated environments (VirtualBox)
+- 🔒 Web security basics & common vulnerabilities
+- ⚙️ Security tools & command-line workflows
+
+### Tools I've Used / Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+</p>
 
 ---
 
@@ -98,14 +122,29 @@ A creative, animated web experience deployed for Valentine's Day.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThembinkosiMadiba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThembinkosiMadiba&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" height="165" alt="Top Languages"/>
-</p>
+<div align="center">
+  
+  <!-- Animated Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Mobile+Developer+%7C+UI%2FUX+Enthusiast;Building+with+React+Native+%26+Firebase;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ThembinkosiMadiba&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThembinkosiMadiba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&rank_icon=github&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThembinkosiMadiba&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" height="170" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ThembinkosiMadiba&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThembinkosiMadiba&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThembinkosiMadiba&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
 
 ---
 
@@ -115,6 +154,7 @@ A creative, animated web experience deployed for Valentine's Day.
 - Backend architecture with Node.js & Express
 - Cloud deployment with AWS/GCP
 - Mobile app performance optimization
+- **Cybersecurity fundamentals** (networking, penetration testing, Linux hardening)
 
 ---
 
@@ -133,5 +173,5 @@ I'm always open to collaborating on interesting projects or discussing tech. Fee
 </p>
 
 <p align="center">
-  <i>💡 "Always learning. Always building. Always improving."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Always%20Learning.%20Always%20Building.%20Always%20Improving.&fontSize=20&fontColor=fff&animation=twinkling" alt="Footer"/>
 </p>
