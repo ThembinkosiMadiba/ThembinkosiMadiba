@@ -1,103 +1,137 @@
-<h1 align="center">Welcome to Thembinkosi's GitHub 👋</h1>
+<h1 align="center">👋 Hey, I'm Thembinkosi Madiba</h1>
 
 <p align="center">
-  <i>UI/UX • Mobile Dev • Cloud • Building real-world apps</i>
+  <i>Mobile Developer • UI/UX Enthusiast • Cloud Engineer in Training</i>
 </p>
-
----
-
-## 🔗 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thembinkosi-madiba-684403328" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:thembinkosimadiba00@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/ThembinkosiMadiba" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-## 👤 About me
+## 💫 About Me
 
-Hello, I’m **Thembinkosi Madiba** — a developer focused on building clean, modern apps with strong UI/UX and real-world functionality.
+I'm a developer passionate about creating **intuitive, user-centered applications** that solve real problems. Currently focused on mobile development with React Native, while expanding my skills in backend integration and cloud engineering.
 
-I’m currently building mobile projects, improving my backend integration skills, and growing my cloud engineering journey.
+**What I'm up to:**
+- 🔨 Building production-ready mobile apps with clean architecture
+- 📚 Deepening backend integration knowledge (Firebase, APIs)
+- ☁️ Learning cloud infrastructure and DevOps practices
+- 🎨 Crafting delightful user experiences through thoughtful UI/UX
 
 ---
 
-## 🧰 Technologies
+## 🛠️ Tech Stack
 
-### Core Technologies
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+**Languages**
+```
+JavaScript • TypeScript • SQL • Python
+```
 
-### Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-111111?style=for-the-badge&logo=react&logoColor=white" />
-</p>
+**Mobile & Web**
+```
+React Native • React • Expo
+```
 
-### Backend / Cloud
-<p>
-  <img src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-111111?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
+**Backend & Cloud**
+```
+Firebase • Netlify • PostgreSQL
+```
 
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-111111?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirtualBox-111111?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=white" />
-</p>
+**Tools & Platforms**
+```
+Git • GitHub • VS Code • PyCharm • VirtualBox • Kali Linux
+```
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛡️ AlertNet (Mobile Safety App)
-- Built with **React Native + Firebase**
-- Swipe-up People Panel with gesture interactions (**PanResponder + Animated**)
-- SOS button, friends list, community + feed UI
+### 🛡️ [AlertNet](https://github.com/ThembinkosiMadiba/AlertNet) 
+**Mobile Safety App** | React Native • Firebase • Real-time Features
 
-### 🍽️ Restaurant Management Database
-- Designed a full database schema (employees, shifts, orders, payments, inventory, suppliers)
-- Focused on data integrity and meaningful populated records
-- SQL queries for insights and reporting
+A community safety application enabling users to connect with trusted contacts and access emergency features.
 
-### 💘 Valentine Website
-- Deployed on **Netlify**
-- Interactive UI + animations
+- ✨ Smooth gesture-based interactions with PanResponder & Animated API
+- 🆘 One-tap SOS emergency alert system
+- 👥 Friends management with real-time status updates
+- 📱 Community feed with location-based safety posts
+
+**Key Tech:** Authentication, Real-time Database, Push Notifications, Geolocation
 
 ---
 
-## 📊 GitHub Statistics
+### 🍽️ [Restaurant Management System](https://github.com/ThembinkosiMadiba/restaurant-db)
+**Database Design** | SQL • PostgreSQL
+
+A comprehensive database solution for restaurant operations management.
+
+- 📊 Complex relational schema (employees, inventory, orders, payments)
+- 🔐 Data integrity with constraints and triggers
+- 📈 Advanced queries for business analytics
+- 💾 Fully populated with realistic sample data
+
+**Highlights:** Shift scheduling, inventory tracking, supplier management, sales reporting
+
+---
+
+### 💘 [Valentine Website](https://valentine-site.netlify.app)
+**Interactive Web Experience** | HTML • CSS • JavaScript • Netlify
+
+A creative, animated web experience deployed for Valentine's Day.
+
+- 🎨 Smooth CSS animations and transitions
+- 💝 Interactive UI elements
+- 📱 Fully responsive design
+- ⚡ Optimized for performance
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThembinkosiMadiba&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThembinkosiMadiba&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThembinkosiMadiba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThembinkosiMadiba&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" height="165" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ThembinkosiMadiba&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🌱 Currently Learning
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ThembinkosiMadiba&theme=tokyonight&hide_border=true" />
-</p>
+- Advanced React Native patterns (Context API, Custom Hooks)
+- Backend architecture with Node.js & Express
+- Cloud deployment with AWS/GCP
+- Mobile app performance optimization
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to collaborating on interesting projects or discussing tech. Feel free to reach out!
+
+- 💼 **LinkedIn:** [Thembinkosi Madiba](https://www.linkedin.com/in/thembinkosi-madiba-684403328)
+- 📧 **Email:** thembinkosimadiba00@gmail.com
+- 🐙 **GitHub:** [@ThembinkosiMadiba](https://github.com/ThembinkosiMadiba)
 
 ---
 
 <p align="center">
-  <i>Always learning. Always building.</i>
+  <img src="https://komarev.com/ghpvc/?username=ThembinkosiMadiba&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <i>💡 "Always learning. Always building. Always improving."</i>
 </p>
