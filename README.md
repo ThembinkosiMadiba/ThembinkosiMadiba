@@ -5,10 +5,6 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" alt="divider"/>
-</p>
-
-<p align="center">
   <i>Mobile Developer • UI/UX Enthusiast • Cloud Engineer in Training  • Cybersecurity Explorer</i>
 </p>
 
