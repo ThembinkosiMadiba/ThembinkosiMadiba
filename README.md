@@ -131,24 +131,10 @@ A creative, animated web experience deployed for Valentine's Day.
 ## 📊 GitHub Activity
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThembinkosiMadiba&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThembinkosiMadiba&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThembinkosiMadiba&theme=radical&hide_border=true)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThembinkosiMadiba&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=ThembinkosiMadiba&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
