@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <i>Mobile Developer • UI/UX Enthusiast • Cybersecurity Explorer</i>
+  <i>Mobile Developer • UI/UX Enthusiast• Cloud Engineer in Training  • Cybersecurity Explorer</i>
 </p>
 
 <p align="center">
@@ -132,11 +132,23 @@ A creative, animated web experience deployed for Valentine's Day.
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThembinkosiMadiba&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThembinkosiMadiba&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThembinkosiMadiba&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThembinkosiMadiba&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThembinkosiMadiba&theme=radical&hide_border=true)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThembinkosiMadiba&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=ThembinkosiMadiba&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
@@ -167,5 +179,5 @@ I'm always open to collaborating on interesting projects or discussing tech. Fee
 </p>
 
 <p align="center">
-  <i>💡 "Always learning. Always building. Always improving."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Always%20Learning.%20Always%20Building.%20Always%20Improving.&fontSize=20&fontColor=fff&animation=twinkling" alt="Footer"/>
 </p>
