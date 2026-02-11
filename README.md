@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <i>Mobile Developer • UI/UX Enthusiast• Cloud Engineer in Training  • Cybersecurity Explorer</i>
+  <i>Mobile Developer • UI/UX Enthusiast • Cloud Engineer in Training  • Cybersecurity Explorer</i>
 </p>
 
 <p align="center">
