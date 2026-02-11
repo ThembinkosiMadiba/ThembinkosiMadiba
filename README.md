@@ -86,48 +86,6 @@ I'm also building my skills in **Cybersecurity**, focusing on practical learning
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛡️ [AlertNet](https://github.com/ThembinkosiMadiba/AlertNet) 
-**Mobile Safety App** | React Native • Firebase • Real-time Features
-
-A community safety application enabling users to connect with trusted contacts and access emergency features.
-
-- ✨ Smooth gesture-based interactions with PanResponder & Animated API
-- 🆘 One-tap SOS emergency alert system
-- 👥 Friends management with real-time status updates
-- 📱 Community feed with location-based safety posts
-
-**Key Tech:** Authentication, Real-time Database, Push Notifications, Geolocation
-
----
-
-### 🍽️ [Restaurant Management System](https://github.com/ThembinkosiMadiba/restaurant-db)
-**Database Design** | SQL • PostgreSQL
-
-A comprehensive database solution for restaurant operations management.
-
-- 📊 Complex relational schema (employees, inventory, orders, payments)
-- 🔐 Data integrity with constraints and triggers
-- 📈 Advanced queries for business analytics
-- 💾 Fully populated with realistic sample data
-
-**Highlights:** Shift scheduling, inventory tracking, supplier management, sales reporting
-
----
-
-### 💘 [Valentine Website](https://valentine-site.netlify.app)
-**Interactive Web Experience** | HTML • CSS • JavaScript • Netlify
-
-A creative, animated web experience deployed for Valentine's Day.
-
-- 🎨 Smooth CSS animations and transitions
-- 💝 Interactive UI elements
-- 📱 Fully responsive design
-- ⚡ Optimized for performance
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
