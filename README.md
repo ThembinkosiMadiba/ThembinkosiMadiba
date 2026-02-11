@@ -84,26 +84,60 @@ I'm also building my skills in **Cybersecurity**, focusing on practical learning
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
 </p>
 
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ [AlertNet](https://github.com/ThembinkosiMadiba/AlertNet) 
+**Mobile Safety App** | React Native • Firebase • Real-time Features
+
+A community safety application enabling users to connect with trusted contacts and access emergency features.
+
+- ✨ Smooth gesture-based interactions with PanResponder & Animated API
+- 🆘 One-tap SOS emergency alert system
+- 👥 Friends management with real-time status updates
+- 📱 Community feed with location-based safety posts
+
+**Key Tech:** Authentication, Real-time Database, Push Notifications, Geolocation
 
 ---
 
-## 📊 GitHub Stats
+### 🍽️ [Restaurant Management System](https://github.com/ThembinkosiMadiba/restaurant-db)
+**Database Design** | SQL • PostgreSQL
+
+A comprehensive database solution for restaurant operations management.
+
+- 📊 Complex relational schema (employees, inventory, orders, payments)
+- 🔐 Data integrity with constraints and triggers
+- 📈 Advanced queries for business analytics
+- 💾 Fully populated with realistic sample data
+
+**Highlights:** Shift scheduling, inventory tracking, supplier management, sales reporting
+
+---
+
+### 💘 [Valentine Website](https://valentine-site.netlify.app)
+**Interactive Web Experience** | HTML • CSS • JavaScript • Netlify
+
+A creative, animated web experience deployed for Valentine's Day.
+
+- 🎨 Smooth CSS animations and transitions
+- 💝 Interactive UI elements
+- 📱 Fully responsive design
+- ⚡ Optimized for performance
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThembinkosiMadiba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&rank_icon=github&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThembinkosiMadiba&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" height="170" alt="Top Languages"/>
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThembinkosiMadiba&show_icons=true&theme=radical&hide_border=true)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ThembinkosiMadiba&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThembinkosiMadiba&layout=compact&theme=radical&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThembinkosiMadiba&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThembinkosiMadiba&theme=radical&hide_border=true)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThembinkosiMadiba&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -133,5 +167,5 @@ I'm always open to collaborating on interesting projects or discussing tech. Fee
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Always%20Learning.%20Always%20Building.%20Always%20Improving.&fontSize=20&fontColor=fff&animation=twinkling" alt="Footer"/>
-</p>>
+  <i>💡 "Always learning. Always building. Always improving."</i>
+</p>
