@@ -1,6 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=70A5FD&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Thembinkosi+Madiba;Mobile+Developer+%7C+UI%2FUX+Enthusiast;Cybersecurity+Explorer" alt="Typing Header" />
+  
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey, I'm Thembinkosi Madiba
+
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" alt="divider"/>
+</p>
+
+<p align="center">
+  <i>Mobile Developer • UI/UX Enthusiast • Cloud Engineer in Training • Cybersecurity Explorer</i>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thembinkosi-madiba-684403328" target="_blank">
@@ -165,4 +175,4 @@ I'm always open to collaborating on interesting projects or discussing tech. Fee
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Always%20Learning.%20Always%20Building.%20Always%20Improving.&fontSize=20&fontColor=fff&animation=twinkling" alt="Footer"/>
-</p>
+</p>>
