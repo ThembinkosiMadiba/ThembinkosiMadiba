@@ -53,7 +53,7 @@ Firebase • Netlify • PostgreSQL
 
 **Tools & Platforms**
 ```
-Git • GitHub • VS Code • PyCharm
+Git • GitHub • VS Code • PyCharm • Figma
 ```
 
 ---
