@@ -38,12 +38,12 @@ I'm a developer passionate about creating **intuitive, user-centered application
 
 **Languages**
 ```
-JavaScript • TypeScript • SQL • Python
+JavaScript • TypeScript  • C# • HTML • SQL • Python
 ```
 
 **Mobile & Web**
 ```
-React Native • React • Expo
+React Native • React • CSS • Expo
 ```
 
 **Backend & Cloud**
