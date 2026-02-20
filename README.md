@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <i>Mobile Developer • UI/UX Enthusiast • Penetration Tester in Training  • Cloud Explorer</i>
+  <i>Software Developer • UI/UX Enthusiast • Cyber Security • Cloud Explorer</i>
 </p>
 
 <p align="center">
