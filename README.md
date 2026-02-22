@@ -48,7 +48,7 @@ React Native • React • HTML • CSS • Expo
 
 **Backend & Cloud**
 ```
-Firebase • Netlify • PostgreSQL
+Firebase • Supabase • Netlify • PostgreSQL
 ```
 
 **Tools & Platforms**
