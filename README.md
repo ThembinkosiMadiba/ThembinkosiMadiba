@@ -1,30 +1,27 @@
 <div align="center">
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey, I'm Thembinkosi Madiba
+
 ![Scramble Animation](scramble.gif)
 
-<div align="center">
-  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thembinkosi-madiba-684403328)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thembinkosimadiba00@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ThembinkosiMadiba)
 ![Profile Views](https://komarev.com/ghpvc/?username=ThembinkosiMadiba&style=flat-square&color=blue)
 
-<div align="center">
+</div>
+
+---
 
 ## About Me
 
-<div>
-  
 Aspiring SOC Analyst and software developer based in South Africa 🇿🇦. My focus is on building a strong foundation in cybersecurity through hands-on labs, practical experimentation, and continuous learning.
 
-I'm driven by curiosity understanding how systems work, how they can be exploited, and how to defend them effectively. Alongside my security studies, I use my development background to build tools that support security workflows and investigations.
+I'm driven by curiosity — understanding how systems work, how they can be exploited, and how to defend them effectively. Alongside my security studies, I use my development background to build tools that support security workflows and investigations.
 
-<div align="center">
+---
 
 ## 🛠️ Security Tools & Environments
-
-<div>
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
@@ -40,11 +37,9 @@ I'm driven by curiosity understanding how systems work, how they can be exploite
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
 
-<div align="center">
+---
 
 ## 💻 Software Development
-
-<div>
 
 My development skills complement my cybersecurity path. I use them to build security-focused tools such as automation scripts, threat analysis utilities, security dashboards, and web-based investigative tools.
 
@@ -68,12 +63,10 @@ My development skills complement my cybersecurity path. I use them to build secu
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-<div align="center">
+---
 
 ## 📚 Currently Learning
 
-<div>
-  
 - Networking fundamentals — TCP/IP, DNS, packet analysis with Wireshark
 - Linux administration and Bash scripting
 - Web application security — OWASP Top 10 via hands-on labs
@@ -81,17 +74,18 @@ My development skills complement my cybersecurity path. I use them to build secu
 - Penetration testing basics via TryHackMe and Hack The Box
 - Preparing for CompTIA Security+ and eJPT certifications
 
-<div align="center">
+---
 
 ## 🎯 Goals
 
-I'm working toward a career in cybersecurity whether as a SOC Analyst, Penetration Tester, or Security Engineer. My aim is to combine deep technical security knowledge with my software development skills to build tools and systems that make a real difference.
+I'm working toward a career in cybersecurity — whether as a SOC Analyst, Penetration Tester, or Security Engineer. My aim is to combine deep technical security knowledge with my software development skills to build tools and systems that make a real difference.
 
 I'm not rushing the process. I'm focused on building genuine skills through honest, consistent practice.
 
-
+---
 
 <div align="center">
 
 *Learning. Building. Improving.*
+
 </div>
