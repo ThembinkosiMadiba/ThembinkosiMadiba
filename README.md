@@ -14,6 +14,8 @@
 
 ## About Me
 
+<div>
+  
 Aspiring SOC Analyst and software developer based in South Africa 🇿🇦. My focus is on building a strong foundation in cybersecurity through hands-on labs, practical experimentation, and continuous learning.
 
 I'm driven by curiosity understanding how systems work, how they can be exploited, and how to defend them effectively. Alongside my security studies, I use my development background to build tools that support security workflows and investigations.
@@ -21,6 +23,8 @@ I'm driven by curiosity understanding how systems work, how they can be exploite
 <div align="center">
 
 ## 🛠️ Security Tools & Environments
+
+<div>
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
@@ -39,6 +43,8 @@ I'm driven by curiosity understanding how systems work, how they can be exploite
 <div align="center">
 
 ## 💻 Software Development
+
+<div>
 
 My development skills complement my cybersecurity path. I use them to build security-focused tools such as automation scripts, threat analysis utilities, security dashboards, and web-based investigative tools.
 
@@ -66,6 +72,8 @@ My development skills complement my cybersecurity path. I use them to build secu
 
 ## 📚 Currently Learning
 
+<div>
+  
 - Networking fundamentals — TCP/IP, DNS, packet analysis with Wireshark
 - Linux administration and Bash scripting
 - Web application security — OWASP Top 10 via hands-on labs
