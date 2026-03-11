@@ -79,5 +79,4 @@ I'm not rushing the process. I'm focused on building genuine skills through hone
 <div align="center">
 
 *Learning. Building. Improving.*
-
 </div>
