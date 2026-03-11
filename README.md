@@ -1,24 +1,15 @@
 <div align="center">
-  
+
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey, I'm Thembinkosi Madiba
 
+**Cybersecurity Student · Security Tool Builder · Software Developer**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thembinkosi-madiba-684403328)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thembinkosimadiba00@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ThembinkosiMadiba)
+![Profile Views](https://komarev.com/ghpvc/?username=ThembinkosiMadiba&style=flat-square&color=blue)
+
 </div>
-
-<p align="center">
-  <i>Cyber Security • Software Developer</i>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/thembinkosi-madiba-684403328" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:thembinkosimadiba00@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/ThembinkosiMadiba" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 
 ---
 
