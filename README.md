@@ -10,7 +10,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ThembinkosiMadiba)
 ![Profile Views](https://komarev.com/ghpvc/?username=ThembinkosiMadiba&style=flat-square&color=blue)
 
----
+<div align="center">
 
 ## About Me
 
@@ -18,7 +18,7 @@ Aspiring SOC Analyst and software developer based in South Africa 🇿🇦. My f
 
 I'm driven by curiosity understanding how systems work, how they can be exploited, and how to defend them effectively. Alongside my security studies, I use my development background to build tools that support security workflows and investigations.
 
----
+<div align="center">
 
 ## 🛠️ Security Tools & Environments
 
@@ -36,7 +36,7 @@ I'm driven by curiosity understanding how systems work, how they can be exploite
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
 
----
+<div align="center">
 
 ## 💻 Software Development
 
@@ -62,7 +62,7 @@ My development skills complement my cybersecurity path. I use them to build secu
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
+<div align="center">
 
 ## 📚 Currently Learning
 
@@ -73,7 +73,7 @@ My development skills complement my cybersecurity path. I use them to build secu
 - Penetration testing basics via TryHackMe and Hack The Box
 - Preparing for CompTIA Security+ and eJPT certifications
 
----
+<div align="center">
 
 ## 🎯 Goals
 
@@ -81,7 +81,7 @@ I'm working toward a career in cybersecurity whether as a SOC Analyst, Penetrati
 
 I'm not rushing the process. I'm focused on building genuine skills through honest, consistent practice.
 
----
+
 
 <div align="center">
 
