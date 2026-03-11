@@ -2,15 +2,15 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey, I'm Thembinkosi Madiba
 ![Scramble Animation](scramble.gif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thembinkosi-madiba-684403328)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thembinkosimadiba00@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ThembinkosiMadiba)
+![Profile Views](https://komarev.com/ghpvc/?username=ThembinkosiMadiba&style=flat-square&color=blue)
 
 ---
 
 ## About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thembinkosi-madiba-684403328)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thembinkosimadiba00@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ThembinkosiMadiba)
-![Profile Views](https://komarev.com/ghpvc/?username=ThembinkosiMadiba&style=flat-square&color=blue)
 Aspiring SOC Analyst and software developer based in South Africa 🇿🇦. My focus is on building a strong foundation in cybersecurity through hands-on labs, practical experimentation, and continuous learning.
 
 I'm driven by curiosity understanding how systems work, how they can be exploited, and how to defend them effectively. Alongside my security studies, I use my development background to build tools that support security workflows and investigations.
