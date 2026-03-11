@@ -1,6 +1,7 @@
 <div align="center">
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey, I'm Thembinkosi Madiba
+![Scramble Animation](https://raw.githubusercontent.com/ThembinkosiMadiba/ThembinkosiMadiba/main/scramble.gif)
 
 **Cybersecurity Student · Security Tool Builder · Software Developer**
 
