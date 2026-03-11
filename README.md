@@ -17,7 +17,7 @@
 
 Aspiring SOC Analyst and software developer based in South Africa 🇿🇦. My focus is on building a strong foundation in cybersecurity through hands-on labs, practical experimentation, and continuous learning.
 
-I'm driven by curiosity — understanding how systems work, how they can be exploited, and how to defend them effectively. Alongside my security studies, I use my development background to build tools that support security workflows and investigations.
+I'm driven by curiosity understanding how systems work, how they can be exploited, and how to defend them effectively. Alongside my security studies, I use my development background to build tools that support security workflows and investigations.
 
 ---
 
