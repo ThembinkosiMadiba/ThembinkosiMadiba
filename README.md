@@ -68,18 +68,6 @@ My development skills complement my cybersecurity path. I use them to build secu
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThembinkosiMadiba&show_icons=true&theme=default&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThembinkosiMadiba&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Goals
 
 I'm working toward a career in cybersecurity whether as a SOC Analyst, Penetration Tester, or Security Engineer. My aim is to combine deep technical security knowledge with my software development skills to build tools and systems that make a real difference.
