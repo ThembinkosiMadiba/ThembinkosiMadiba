@@ -17,23 +17,7 @@
 
 I'm a cybersecurity student and software developer based in South Africa 🇿🇦. My focus is on building a strong foundation in cybersecurity through hands-on labs, practical experimentation, and continuous learning.
 
-I'm driven by curiosity — understanding how systems work, how they can be exploited, and how to defend them effectively. Alongside my security studies, I use my development background to build tools that support security workflows and investigations.
-
----
-
-## 🔐 Cybersecurity Focus
-
-My cybersecurity journey is hands-on and structured. I work through labs, study attack techniques in safe environments, and document my findings as I grow.
-
-**Areas I'm actively studying:**
-- Network security & protocol analysis
-- Linux systems administration and hardening
-- Web application vulnerabilities (OWASP Top 10)
-- Phishing analysis and threat investigation
-- Penetration testing fundamentals
-- Security scripting and automation with Python
-
-> All practical work is conducted in legal, isolated environments — virtual machines, offline labs, and authorised platforms.
+I'm driven by curiosity understanding how systems work, how they can be exploited, and how to defend them effectively. Alongside my security studies, I use my development background to build tools that support security workflows and investigations.
 
 ---
 
@@ -81,17 +65,6 @@ My development skills complement my cybersecurity path. I use them to build secu
 
 ---
 
-## 🔬 Projects
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| Security Automation Scripts | Python scripts for recon, log analysis, and workflow automation | In Progress |
-| Lab Write-ups | Documented findings from CTF challenges and security labs | In Progress |
-| Phishing Analyser | Tool for inspecting email headers and indicators of compromise | Planning |
-| Network Traffic Dashboard | Dashboard for visualising and analysing PCAP data | Planning |
-
----
-
 ## 📚 Currently Learning
 
 - Networking fundamentals — TCP/IP, DNS, packet analysis with Wireshark
@@ -117,7 +90,7 @@ My development skills complement my cybersecurity path. I use them to build secu
 
 ## 🎯 Goals
 
-I'm working toward a career in cybersecurity — whether as a Security Analyst, Penetration Tester, or Security Engineer. My aim is to combine deep technical security knowledge with my software development skills to build tools and systems that make a real difference.
+I'm working toward a career in cybersecurity whether as a SOC Analyst, Penetration Tester, or Security Engineer. My aim is to combine deep technical security knowledge with my software development skills to build tools and systems that make a real difference.
 
 I'm not rushing the process. I'm focused on building genuine skills through honest, consistent practice.
 
