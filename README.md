@@ -65,7 +65,7 @@ My development skills complement my cybersecurity path. I use them to build secu
 
 ---
 
-## 📚 ![Currently Learning] (https://img.shields.io/github/last-commit/ThembinkosiMadiba/ThembinkosiMadiba)
+## 📚 ![Currently Learning](https://img.shields.io/github/last-commit/ThembinkosiMadiba/ThembinkosiMadiba)
 
 - Preparing for CompTIA Security+
 - Security concepts: access control, authentication, encryption
@@ -77,7 +77,7 @@ My development skills complement my cybersecurity path. I use them to build secu
 
 ## 🎯 Goals
 
-I'm working toward a career in cybersecurity — whether as a SOC Analyst, Penetration Tester, or Security Engineer. My aim is to combine deep technical security knowledge with my software development skills to build tools and systems that make a real difference.
+I'm working toward a career in cybersecurity whether as a SOC Analyst, IT Technicial, or Security Engineer. My aim is to combine deep technical security knowledge with my software development skills to build tools and systems that make a real difference.
 
 I'm not rushing the process. I'm focused on building genuine skills through honest, consistent practice.
 
