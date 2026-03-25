@@ -65,7 +65,7 @@ My development skills complement my cybersecurity path. I use them to build secu
 
 ---
 
-## 📚 Currently Learning
+## 📚 ![Currently Learning](https://img.shields.io/github/last-commit/<ThembinkosiMadiba>/<ThembinkosiMadiba>)
 
 - Preparing for CompTIA Security+
 - Security concepts: access control, authentication, encryption
