@@ -67,12 +67,11 @@ My development skills complement my cybersecurity path. I use them to build secu
 
 ## 📚 Currently Learning
 
-- Networking fundamentals — TCP/IP, DNS, packet analysis with Wireshark
-- Linux administration and Bash scripting
-- Web application security — OWASP Top 10 via hands-on labs
-- Python scripting for security automation
-- Penetration testing basics via TryHackMe and Hack The Box
-- Preparing for CompTIA Security+ and eJPT certifications
+- Preparing for CompTIA Security+
+- Security concepts: access control, authentication, encryption
+- Understanding computer components: CPU, RAM, GPU, motherboard, storage
+- Building and assembling PCs
+- Maintenance and repair of peripherals
 
 ---
 
