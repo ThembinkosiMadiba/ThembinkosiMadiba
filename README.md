@@ -70,7 +70,6 @@ My development skills complement my cybersecurity path. I use them to build secu
 - Preparing for CompTIA Security+
 - Security concepts: access control, authentication, encryption
 - Understanding computer components: CPU, RAM, GPU, motherboard, storage
-- Building and assembling PCs
 - Maintenance and repair of peripherals
 
 ---
