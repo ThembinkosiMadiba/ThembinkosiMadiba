@@ -68,10 +68,14 @@ My development skills complement my cybersecurity path. I use them to build secu
 ## ![Last Updated](https://img.shields.io/github/last-commit/ThembinkosiMadiba/ThembinkosiMadiba?label=) Currently Learning
 
 - Preparing for CompTIA A+
-- Security concepts: access control, authentication, encryption
-- Understanding computer components: CPU, RAM, GPU, motherboard, storage
-- Maintenance and repair of peripherals
-
+1. Motherboard Components
+2. Form Factors (Motherboard Sizes)
+3. Expansion Slots and Cards
+4. Storage Interfaces
+5. Internal Connectors
+6. External Ports (Back Panel I/O)
+7. BIOS / UEFI
+8. Power & Cooling
 ---
 
 ## 🎯 Goals
