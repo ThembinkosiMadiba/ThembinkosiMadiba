@@ -67,15 +67,11 @@ My development skills complement my cybersecurity path. I use them to build secu
 
 ## ![Last Updated](https://img.shields.io/github/last-commit/ThembinkosiMadiba/ThembinkosiMadiba?label=) Currently Learning
 
-- Preparing for CompTIA A+
-1. Motherboard Components
-2. Form Factors (Motherboard Sizes)
-3. Expansion Slots and Cards
-4. Storage Interfaces
-5. Internal Connectors
-6. External Ports (Back Panel I/O)
-7. BIOS / UEFI
-8. Power & Cooling
+- Preparing for SC-900
+1.  Concepts of Security, Compliance, and Identity
+2. Capabilities of Microsoft Entra
+3. Capabilities of Microsoft Security Solutions
+
 ---
 
 ## 🎯 Goals
