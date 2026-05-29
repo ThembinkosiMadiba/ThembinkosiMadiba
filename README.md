@@ -6,8 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thembinkosi-madiba-684403328)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thembinkosimadiba00@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=shield&logoColor=white)](https://thembinkosimadiba.framer.website/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=hackthebox&logoColor=white)](https://thembinkosi.framer.website/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=veracode&logoColor=white)](https://thembinkosi.framer.website/)
+![Profile Views](https://komarev.com/ghpvc/?username=ThembinkosiMadiba&style=flat-square&color=blue)
 </div>
 
 ---
