@@ -66,10 +66,23 @@ My development skills complement my cybersecurity path. I use them to build secu
 
 ## ![Last Updated](https://img.shields.io/github/last-commit/ThembinkosiMadiba/ThembinkosiMadiba?label=) Currently Learning
 
-- Preparing for SC-900
-1.  Concepts of Security, Compliance, and Identity
-2. Capabilities of Microsoft Entra
-3. Capabilities of Microsoft Security Solutions
+**CompTIA Security+ (SY0-701)**
+
+- 🔐 General Security Concepts
+- ⚠️ Threats, Vulnerabilities & Mitigations
+- 🏗️ Security Architecture
+- 🛡️ Security Operations
+- 📋 Security Program Management & Governance
+
+### Key Topics
+- CIA Triad & AAA
+- Cryptography (PKI, Encryption, Hashing)
+- Network & Endpoint Security
+- Identity & Access Management (IAM)
+- Incident Response & Digital Forensics
+- Risk Management & Compliance
+- Vulnerability Assessment & Security Monitoring
+- Cloud, Virtualization & Zero Trust Security
 
 ---
 
