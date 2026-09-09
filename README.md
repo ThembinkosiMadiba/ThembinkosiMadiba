@@ -14,9 +14,11 @@
 
 ## About Me
 
-Aspiring SOC Analyst and software developer based in South Africa. My focus is on building a strong foundation in cybersecurity through hands-on labs, practical experimentation, and continuous learning.
+I'm Thembinkosi Madiba, a BCom Information Systems graduate from South Africa transitioning into cybersecurity, with a focus on risk, governance, compliance, and security operations.  
 
-I'm driven by curiosity understanding how systems work, how they can be exploited, and how to defend them effectively. Alongside my security studies, I use my development background to build tools that support security workflows and investigations.
+My Information Systems background gave me a working foundation in how organizations design, run, and depend on technology which is what first drew me to the risk and compliance side of security
+
+Understanding not just how systems can be attacked, but how organizations govern and reduce that exposure using frameworks like NIST, ISO 27001, and COBIT. 
 
 ---
 
