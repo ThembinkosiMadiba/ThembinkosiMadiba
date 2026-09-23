@@ -16,7 +16,7 @@
 
 I'm Thembinkosi Madiba, a BCom Information Systems graduate (University of Johannesburg, 2026) from South Africa, transitioning into cybersecurity with a focus on GRC, technology risk, information security, identity & access management, and data governance.
 
-I currently work as an IT Support / CX Intern at CX Experts (in partnership with CAPACITI), handling live support tickets in Zendesk, troubleshooting authentication and account-access issues, and working against SLA requirements — hands-on experience with real systems and real users.
+I currently work as an IT Support / CX Intern at CX Experts (in partnership with CAPACITI), handling live support tickets in Zendesk, troubleshooting authentication and account-access issues, and working against SLA requirements hands-on experience with real systems and real users.
 
 I recently became **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**, and I'm putting those concepts into practice through hands-on projects with Microsoft Entra ID and Microsoft Purview. I'm currently studying toward CompTIA Security+.
 
