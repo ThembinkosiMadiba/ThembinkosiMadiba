@@ -20,7 +20,7 @@ I currently work as an IT Support / CX Intern at CX Experts (in partnership with
 
 I recently became **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**, and I'm putting those concepts into practice through hands-on projects with Microsoft Entra ID and Microsoft Purview. I'm currently studying toward CompTIA Security+.
 
-My Information Systems background gave me a working foundation in how organizations design, run, and depend on technology — which is what first drew me to the risk and compliance side of security. I'm interested not just in how systems can be attacked, but in how organizations govern and reduce that exposure using frameworks like NIST, ISO 27001, and COBIT.
+My Information Systems background gave me a working foundation in how organizations design, run, and depend on technology which is what first drew me to the risk and compliance side of security. I'm interested not just in how systems can be attacked, but in how organizations govern and reduce that exposure using frameworks like NIST, ISO 27001, and COBIT.
 
 ---
 
