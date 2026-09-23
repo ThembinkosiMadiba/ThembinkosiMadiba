@@ -26,17 +26,17 @@ My Information Systems background gave me a working foundation in how organizati
 
 ## 🔐 Featured Project
 
-### Microsoft Purview Data Governance & DLP Lab — CAPTCHA Technologies
+### Microsoft Purview Data Governance & DLP Lab CAPTCHA Technologies
 
 A hands-on, simulated enterprise GRC and data-protection environment built on a live Microsoft Entra ID tenant + Microsoft 365 E5 trial. Every control is tied to a documented risk, every test result is logged PASS/FAIL/PARTIAL, and real issues encountered along the way are documented rather than hidden.
 
 **What I built:**
-- **Identity & Access Management** — 5 fictional department users mapped 1:1 to mail-enabled Entra ID security groups (HR, Finance, Sales, IT, Security-GRC); access granted at group level only, implementing least privilege by design
-- **Data Classification** — a 4-tier sensitivity label model (Public → Internal → Confidential → Highly Confidential) in Microsoft Purview, with protection scaling to risk level
-- **Data Loss Prevention** — a custom DLP policy combining label-based and content-based detection, deployed in simulation mode, with 2 independent tests executed and passed
-- **Audit & Investigation** — a full incident investigation (INC-001) built on a three-artifact evidence chain, with a follow-up addendum
-- **Risk & Control Management** — a risk register scoring 5 real risks, and a control matrix mapping 5 controls to risk, technology, and evidence
-- **Testing** — a consolidated test plan across every phase: 12 tests total, 10 PASS, 0 FAIL, 2 PARTIAL
+- **Identity & Access Management** - 5 fictional department users mapped 1:1 to mail-enabled Entra ID security groups (HR, Finance, Sales, IT, Security-GRC); access granted at group level only, implementing least privilege by design
+- **Data Classification** - a 4-tier sensitivity label model (Public → Internal → Confidential → Highly Confidential) in Microsoft Purview, with protection scaling to risk level
+- **Data Loss Prevention** - a custom DLP policy combining label-based and content-based detection, deployed in simulation mode, with 2 independent tests executed and passed
+- **Audit & Investigation** - a full incident investigation (INC-001) built on a three-artifact evidence chain, with a follow-up addendum
+- **Risk & Control Management** - a risk register scoring 5 real risks, and a control matrix mapping 5 controls to risk, technology, and evidence
+- **Testing** - a consolidated test plan across every phase: 12 tests total, 10 PASS, 0 FAIL, 2 PARTIAL
 
 `Data Governance` `IAM` `Least Privilege` `RBAC` `Data Classification` `Sensitivity Labels` `DLP` `Information Protection` `Audit` `Risk Management` `GRC`
 
