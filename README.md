@@ -120,7 +120,7 @@ Development is a supporting skill set, not my primary direction — I use it to 
 
 ## ![Last Updated](https://img.shields.io/github/last-commit/ThembinkosiMadiba/ThembinkosiMadiba?label=) Currently Learning
 
-**CompTIA Security+ (SY0-701)** — *in progress, not yet certified*
+**CompTIA Security+ (SY0-701)** *in progress, not yet certified*
 
 - 🔐 General Security Concepts
 - ⚠️ Threats, Vulnerabilities & Mitigations
@@ -142,7 +142,7 @@ Development is a supporting skill set, not my primary direction — I use it to 
 
 ## 🎯 Goals
 
-I'm building a career at the intersection of cybersecurity, technology risk, governance, and security operations — targeting roles like Cybersecurity Analyst, SOC Analyst, GRC Analyst, Technology Risk Analyst, or IAM/Access Management, with IT support as a supporting path.
+I'm building a career at the intersection of cybersecurity, technology risk, governance, and security operations targeting roles like Cybersecurity Analyst, SOC Analyst, GRC Analyst, Technology Risk Analyst, or IAM/Access Management, with IT support as a supporting path.
 
 I'm developing both technical skills (identity, data protection, monitoring, security tooling) and governance-oriented skills (risk assessment, control mapping, compliance documentation), using my Information Systems background to understand security from both the technology and business sides.
 
