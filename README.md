@@ -5,12 +5,12 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="assets/scramble-dark.gif">
+    srcset="./scramble-dark.gif">
   <source
     media="(prefers-color-scheme: light)"
-    srcset="assets/scramble-light.gif">
+    srcset="./scramble-light.gif">
   <img
-    src="assets/scramble-dark.gif"
+    src="./scramble-dark.gif"
     width="800"
     alt="Animated cybersecurity terminal banner: Cybersecurity | GRC | SOC">
 </picture>
@@ -143,6 +143,8 @@ Development is a supporting skill set rather than my primary career direction. I
 ![Last Updated](https://img.shields.io/github/last-commit/ThembinkosiMadiba/ThembinkosiMadiba?label=)
 
 **CompTIA Security+ (SY0-701)**
+
+*In progress — not yet certified.*
 
 - General Security Concepts
 - Threats, Vulnerabilities & Mitigations
