@@ -2,7 +2,18 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey, I'm Thembinkosi Madiba
 
-![Scramble Animation](scramble.gif)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="assets/scramble-dark.gif">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="assets/scramble-light.gif">
+  <img
+    src="assets/scramble-dark.gif"
+    width="800"
+    alt="Animated cybersecurity terminal banner: Cybersecurity | GRC | SOC">
+</picture>
 
 **Cybersecurity | Technology Risk & GRC | Security Operations**
 
@@ -132,8 +143,6 @@ Development is a supporting skill set rather than my primary career direction. I
 ![Last Updated](https://img.shields.io/github/last-commit/ThembinkosiMadiba/ThembinkosiMadiba?label=)
 
 **CompTIA Security+ (SY0-701)**
-
-<badge>In progress</badge>
 
 - General Security Concepts
 - Threats, Vulnerabilities & Mitigations
