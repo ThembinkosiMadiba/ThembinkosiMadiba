@@ -1,44 +1,50 @@
-<div align="center">
+ <div align="center">
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey, I'm Thembinkosi Madiba
 
 ![Scramble Animation](scramble.gif)
 
+**Cybersecurity | Technology Risk & GRC | Security Operations**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thembinkosi-madiba-684403328)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thembinkosimadiba00@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://thembinkosimadiba.framer.website/)
 ![Profile Views](https://komarev.com/ghpvc/?username=ThembinkosiMadiba&style=flat-square&color=blue)
+
 </div>
 
 ---
 
 ## About Me
 
-I'm Thembinkosi Madiba, a BCom Information Systems graduate (University of Johannesburg, 2026) from South Africa, transitioning into cybersecurity with a focus on GRC, technology risk, information security, identity & access management, and data governance.
+I'm Thembinkosi Madiba, a BCom Information Systems graduate from the University of Johannesburg (2026), based in South Africa, building a career in cybersecurity with a focus on Security Operations, Technology Risk, Governance, Risk & Compliance (GRC), and information security.
 
-I currently work as an IT Support / CX Intern at CX Experts (in partnership with CAPACITI), handling live support tickets in Zendesk, troubleshooting authentication and account-access issues, and working against SLA requirements hands-on experience with real systems and real users.
+I currently work as an **IT Security and Compliance Intern** at Digify BPO / CX Experts through CAPACITI. My experience includes reviewing Information Security Management System (ISMS) documentation against ISO/IEC 27001:2022 requirements, identifying potential control gaps, and supporting operational security and compliance checks. I also bring practical IT support experience involving user access, authentication troubleshooting, incident documentation, and service-level requirements.
 
-I recently became **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**, and I'm putting those concepts into practice through hands-on projects with Microsoft Entra ID and Microsoft Purview. I'm currently studying toward CompTIA Security+.
+I'm particularly interested in how organizations identify security risks, implement effective controls, protect information assets, and respond to security incidents. My approach combines technical security knowledge with an understanding of governance, business processes, and risk management.
 
-My Information Systems background gave me a working foundation in how organizations design, run, and depend on technology which is what first drew me to the risk and compliance side of security. I'm interested not just in how systems can be attacked, but in how organizations govern and reduce that exposure using frameworks like NIST, ISO 27001, and COBIT.
+I hold the **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)** certification and the **ISC2 Certified in Cybersecurity (CC)** certification. I'm currently studying towards CompTIA Security+ (SY0-701).
+
+My Information Systems background has given me an understanding of how organizations design, manage, and depend on technology. I apply that perspective to cybersecurity, exploring frameworks and practices such as ISO 27001, NIST CSF, COBIT, identity and access management, data protection, and security monitoring.
 
 ---
 
 ## 🔐 Featured Project
 
-### Microsoft Purview Data Governance & DLP Lab CAPTCHA Technologies
+### Microsoft Purview Data Governance & DLP Lab
 
-A hands-on, simulated enterprise GRC and data-protection environment built on a live Microsoft Entra ID tenant + Microsoft 365 E5 trial. Every control is tied to a documented risk, every test result is logged PASS/FAIL/PARTIAL, and real issues encountered along the way are documented rather than hidden.
+A hands-on data governance and information protection lab built using a Microsoft Entra ID tenant and Microsoft 365 E5 trial environment. The project explores how identity management, data classification, Data Loss Prevention (DLP), auditing, and risk management can work together to protect organizational information.
 
-**What I built:**
-- **Identity & Access Management** - 5 fictional department users mapped 1:1 to mail-enabled Entra ID security groups (HR, Finance, Sales, IT, Security-GRC); access granted at group level only, implementing least privilege by design
-- **Data Classification** - a 4-tier sensitivity label model (Public → Internal → Confidential → Highly Confidential) in Microsoft Purview, with protection scaling to risk level
-- **Data Loss Prevention** - a custom DLP policy combining label-based and content-based detection, deployed in simulation mode, with 2 independent tests executed and passed
-- **Audit & Investigation** - a full incident investigation (INC-001) built on a three-artifact evidence chain, with a follow-up addendum
-- **Risk & Control Management** - a risk register scoring 5 real risks, and a control matrix mapping 5 controls to risk, technology, and evidence
-- **Testing** - a consolidated test plan across every phase: 12 tests total, 10 PASS, 0 FAIL, 2 PARTIAL
+**What I implemented:**
 
-`Data Governance` `IAM` `Least Privilege` `RBAC` `Data Classification` `Sensitivity Labels` `DLP` `Information Protection` `Audit` `Risk Management` `GRC`
+- **Identity & Access Management:** Created five fictional department users and mapped them to mail-enabled Entra ID security groups, applying group-based access and least-privilege principles.
+- **Data Classification:** Designed a four-tier sensitivity classification model: Public, Internal, Confidential, and Highly Confidential.
+- **Data Loss Prevention:** Configured a custom DLP policy combining sensitivity-label and content-based detection, using simulation mode for testing.
+- **Audit & Investigation:** Documented an incident investigation (INC-001), supported by a three-artifact evidence chain and follow-up addendum.
+- **Risk & Control Management:** Developed a risk register covering five risks and a control matrix mapping controls to risks, technologies, and supporting evidence.
+- **Testing & Validation:** Documented 12 tests across the project: 10 PASS, 0 FAIL, and 2 PARTIAL.
+
+`Microsoft Purview` `Microsoft Entra ID` `IAM` `RBAC` `Least Privilege` `Data Classification` `DLP` `Information Protection` `Audit` `Risk Management` `GRC`
 
 [![View Project](https://img.shields.io/badge/View_Project-microsoft--purview--data--governance--lab-2F81F7?style=flat-square&logo=github)](https://github.com/ThembinkosiMadiba/microsoft-purview-data-governance-lab)
 
@@ -46,8 +52,8 @@ A hands-on, simulated enterprise GRC and data-protection environment built on a 
 
 ## 📜 Certifications
 
-**Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)** 🥇
-
+- **ISC2 Certified in Cybersecurity (CC)**
+- **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**
 - IBM Cybersecurity Compliance Framework, Standards & Regulations
 - Google IT Support Professional Certificate
 - AWS Cloud Practitioner Essentials
@@ -80,21 +86,23 @@ A hands-on, simulated enterprise GRC and data-protection environment built on a 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
-**Concepts:** IAM · RBAC · Least Privilege · Data Governance · DLP · Information Protection · Audit & Monitoring · Risk Management · Compliance · NIST · ISO 27001 · COBIT · ITGC · CIA Triad · Zero Trust
+**Security & Governance Concepts**
+
+IAM · RBAC · Least Privilege · Data Governance · DLP · Information Protection · Security Monitoring · Incident Response · Risk Management · Compliance · NIST CSF · ISO 27001 · COBIT · ITGC · CIA Triad · Zero Trust
 
 **Learning Platforms**
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
+![Blue Team Labs Online](https://img.shields.io/badge/Blue_Team_Labs_Online-1A1A1A?style=flat-square&logo=securityscorecard&logoColor=white)
 
 ---
 
 ## 💻 Software Development
 
-Development is a supporting skill set, not my primary direction — I use it to build security-focused tools such as automation scripts, threat analysis utilities, security dashboards, and web-based investigative tools.
+Development is a supporting skill set rather than my primary career direction. I use programming to explore cybersecurity concepts and build security-focused tools, automation scripts, threat analysis utilities, and investigative applications.
 
 **Languages**
 
@@ -118,17 +126,22 @@ Development is a supporting skill set, not my primary direction — I use it to 
 
 ---
 
-## ![Last Updated](https://img.shields.io/github/last-commit/ThembinkosiMadiba/ThembinkosiMadiba?label=) Currently Learning
+## 📚 Currently Learning
 
-**CompTIA Security+ (SY0-701)** *in progress, not yet certified*
+![Last Updated](https://img.shields.io/github/last-commit/ThembinkosiMadiba/ThembinkosiMadiba?label=)
 
-- 🔐 General Security Concepts
-- ⚠️ Threats, Vulnerabilities & Mitigations
-- 🏗️ Security Architecture
-- 🛡️ Security Operations
-- 📋 Security Program Management & Governance
+**CompTIA Security+ (SY0-701)**
+
+<badge>In progress</badge>
+
+- General Security Concepts
+- Threats, Vulnerabilities & Mitigations
+- Security Architecture
+- Security Operations
+- Security Program Management & Governance
 
 ### Key Topics
+
 - CIA Triad & AAA
 - Cryptography (PKI, Encryption, Hashing)
 - Network & Endpoint Security
@@ -140,18 +153,20 @@ Development is a supporting skill set, not my primary direction — I use it to 
 
 ---
 
-## 🎯 Goals
+## 🎯 Career Goals
 
-I'm building a career at the intersection of cybersecurity, technology risk, governance, and security operations targeting roles like Cybersecurity Analyst, SOC Analyst, GRC Analyst, Technology Risk Analyst, or IAM/Access Management, with IT support as a supporting path.
+I'm building a career in cybersecurity at the intersection of **Security Operations, Technology Risk, and Governance, Risk & Compliance**.
 
-I'm developing both technical skills (identity, data protection, monitoring, security tooling) and governance-oriented skills (risk assessment, control mapping, compliance documentation), using my Information Systems background to understand security from both the technology and business sides.
+I'm particularly interested in opportunities such as:
 
-I'm not rushing the process. I'm focused on building genuine skills through honest, consistent practice.
+- Cybersecurity Analyst
+- SOC Analyst
+- Security Operations Analyst
+- GRC Analyst
+- Technology Risk Analyst
+- Information Security Analyst
+- IAM / Access Management Analyst
 
----
+My goal is to develop the technical and analytical skills needed to help organizations detect threats, manage security risks, strengthen controls, and protect their information assets.
 
-<div align="center">
-
-*Learning. Building. Securing.*
-
-</div>
+I aim to contribute to the growth of the cybersecurity and IT industry in South Africa and across Africa, while continuously developing my knowledge through practical projects, certifications, and hands-on security experience.
