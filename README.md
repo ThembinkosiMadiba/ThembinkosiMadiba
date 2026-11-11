@@ -63,6 +63,7 @@ A hands-on data governance and information protection lab built using a Microsof
 <summary>Additional Learning</summary>
 <br>
 
+- Security Monitoring and SIEM Fundamentals: Cybersecurity Labs Powered by Hack The Box
 - Google AI Essentials
 - Python for Data Science and AI
 - Google Introduction to Generative AI
