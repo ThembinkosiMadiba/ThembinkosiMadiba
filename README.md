@@ -144,7 +144,7 @@ Development is a supporting skill set rather than my primary career direction. I
 
 **CompTIA Security+ (SY0-701)**
 
-*In progress — not yet certified.*
+*In progress - not yet certified.*
 
 - General Security Concepts
 - Threats, Vulnerabilities & Mitigations
